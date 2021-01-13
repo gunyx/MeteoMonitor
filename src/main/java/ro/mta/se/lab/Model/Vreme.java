@@ -23,6 +23,17 @@ public class Vreme {
     FloatProperty valoareUV;
     FloatProperty umiditate;
 
+    /**
+     * Constructorul clasei vreme ce seteaza parametrii pentru fiecare locatie in parte
+     * @param id id oras
+     * @param temperatura temperatura locala
+     * @param temperaturaMin val tem min
+     * @param temeperaturaMax val tem max
+     * @param presiune presiune actuala
+     * @param vitezaVant viteza actuala
+     * @param valoareUV
+     * @param umiditate
+     */
     public Vreme(int id, Float temperatura, Float temperaturaMin, Float temeperaturaMax, Float presiune, Float vitezaVant, Float valoareUV, Float umiditate) {
         this.id = new SimpleIntegerProperty(id);
         this.temperatura = new SimpleFloatProperty(temperatura);

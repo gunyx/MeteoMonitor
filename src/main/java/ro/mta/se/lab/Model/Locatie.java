@@ -15,6 +15,18 @@ public class Locatie {
     FloatProperty longitudine;
     FloatProperty latitudine;
 
+    public Locatie(IntegerProperty id) {
+
+    }
+
+    /**
+     * Constructorul clasei ce seteaza datele pentru locatie
+     * @param id
+     * @param numeOras
+     * @param codTara
+     * @param longitudine
+     * @param latitudine
+     */
     public Locatie(int id, String numeOras, String codTara, float longitudine, float latitudine) {
         this.id = new SimpleIntegerProperty(id);
         this.numeOras = new SimpleStringProperty(numeOras);

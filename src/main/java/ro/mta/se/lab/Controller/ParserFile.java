@@ -1,23 +1,32 @@
 package ro.mta.se.lab.Controller;
 
+import ro.mta.se.lab.Model.Locatie;
+
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+/**
+ * @author Gunyx
+ * Clasa singletone ce se ocupa cu parsarea fisierului de intrare. Acesta clasa citeste fisierul de intrare si stocheaza intr-o lista toate locatiile trimise.
+ *
+ */
 
 public class ParserFile {
 
     private static ParserFile instance = null;
 
-    private List<String> idList;
-    private List<String> nameList;
-    private List<String> latList;
-    private List<String> lonList;
-    private List<String> countryList;
+    private final List<Locatie> listaLocatiiIntrare=new ArrayList<>();
 
 
     private ParserFile() {
 
+    }
+
+    public List<Locatie> getListaLocatiiIntrare() {
+        return listaLocatiiIntrare;
     }
 
     public static ParserFile getInstance() {
@@ -36,49 +45,48 @@ public class ParserFile {
         return instance;
     }
 
+    /**
+     * Metoda pentru citirea fisierului de intrare
+     * @param fileInLocation parametru prin care este trimisa locatia(numele) fisierului de intrare
+     * @throws FileNotFoundException exceptie pentru inexistenta fisier in
+     */
     private static void citireDate(String fileInLocation) throws FileNotFoundException {
 
         File file = new File(fileInLocation);
+        if (!file.exists()) {
+        //exceptie
+            System.out.println("Fisier de intrare lipsa");
+            return;
+        }
         Scanner scanner = new Scanner(file);
 
         String linie=null;
         while (scanner.hasNextLine()) {
             linie = scanner.nextLine();
-            String[] elementeLinie = linie.split("\t");
-            if (elementeLinie.length != 5)
-               //exceptie
+            String[] elementeLinie = linie.split("\\S+");//Several non-whitespace characters
+            if (elementeLinie.length != 5) {
+                //exceptie
+                System.out.println("Fisier de intrare cu argumente gresite");
+            }
             setareDate(elementeLinie);
         }
 
 
     }
 
+    /**
+     * Metoda care seteaza informatiile
+     * @param information primeste string-ul ce contine fiecare linie din fisierul de IN
+     */
     private static void setareDate(String[]information)
     {
-        instance.idList.add(information[0]);
-        instance.nameList.add(information[1]);
-        instance.latList.add((information[2]));
-        instance.lonList.add((information[3]));
-        instance.countryList.add(information[4]);
-    }
+        int  idNou=Integer.parseInt(information[0].trim());
+        String numeNou=information[1];
+        float latNou=Float.parseFloat(information[2].trim());
+        float longNou=Float.parseFloat(information[3].trim());
+        String codTara=information[4];
 
-    public List<String> getIdList() {
-        return idList;
-    }
-
-    public List<String> getNameList() {
-        return nameList;
-    }
-
-    public List<String> getLatList() {
-        return latList;
-    }
-
-    public List<String> getLonList() {
-        return lonList;
-    }
-
-    public List<String> getCountryList() {
-        return countryList;
+        Locatie locatieNoua=new Locatie(idNou,numeNou,codTara,longNou,latNou);
+        instance.listaLocatiiIntrare.add(locatieNoua);
     }
 }
