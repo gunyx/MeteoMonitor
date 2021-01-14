@@ -11,6 +11,8 @@ import javafx.beans.property.*;
  *                                                   ->viteza vant
  *                                                   ->valoare radiatii UV
  *                                                   ->umiditate
+ *                                                   ->prezenta nori
+ *
  */
 public class Vreme {
 
@@ -22,6 +24,7 @@ public class Vreme {
     FloatProperty vitezaVant;
     FloatProperty valoareUV;
     FloatProperty umiditate;
+    FloatProperty nori;
 
     /**
      * Constructorul clasei vreme ce seteaza parametrii pentru fiecare locatie in parte
@@ -33,8 +36,9 @@ public class Vreme {
      * @param vitezaVant viteza actuala
      * @param valoareUV
      * @param umiditate
+     * @param nori prezenta nori
      */
-    public Vreme(int id, Float temperatura, Float temperaturaMin, Float temeperaturaMax, Float presiune, Float vitezaVant, Float valoareUV, Float umiditate) {
+    public Vreme(int id, float temperatura, float temperaturaMin, float temeperaturaMax, float presiune, float vitezaVant, float valoareUV, float umiditate, float nori) {
         this.id = new SimpleIntegerProperty(id);
         this.temperatura = new SimpleFloatProperty(temperatura);
         this.temperaturaMin = new SimpleFloatProperty(temperaturaMin);
@@ -43,6 +47,16 @@ public class Vreme {
         this.vitezaVant = new SimpleFloatProperty(vitezaVant);
         this.valoareUV =new SimpleFloatProperty(valoareUV);
         this.umiditate = new SimpleFloatProperty(umiditate);
+        this.nori = new SimpleFloatProperty(nori);
+    }
+
+
+    public float getNori() {
+        return nori.get();
+    }
+
+    public FloatProperty noriProperty() {
+        return nori;
     }
 
     public int getId() {

@@ -7,26 +7,35 @@
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <AnchorPane layoutX="50.0" layoutY="25.0" prefHeight="350.0" prefWidth="500.0">
+      <AnchorPane prefHeight="403.0" prefWidth="600.0">
          <children>
-            <Button layoutX="408.0" layoutY="71.0" mnemonicParsing="false" text="Afiseaza" />
-            <Label layoutX="14.0" layoutY="48.0" prefHeight="17.0" prefWidth="117.0" text="Tara" />
-            <Label layoutX="206.0" layoutY="48.0" prefHeight="17.0" prefWidth="117.0" text="Oras" />
-            <Label alignment="CENTER" layoutX="94.0" layoutY="14.0" prefHeight="34.0" prefWidth="313.0" text="BUSU ONLINE" textFill="#bf5353">
+            <Button layoutX="461.0" layoutY="96.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="81.0" text="Afiseaza" />
+            <Label layoutX="21.0" layoutY="75.0" prefHeight="17.0" prefWidth="117.0" text="Tara" />
+            <Label layoutX="234.0" layoutY="75.0" prefHeight="17.0" prefWidth="117.0" text="Oras" />
+            <Label alignment="CENTER" layoutX="148.0" layoutY="14.0" prefHeight="34.0" prefWidth="313.0" text="Vremea Live" textFill="#cd4c4c">
                <font>
-                  <Font name="System Bold Italic" size="13.0" />
+                  <Font name="System Bold Italic" size="32.0" />
                </font>
             </Label>
-            <ComboBox layoutX="11.0" layoutY="71.0" prefWidth="150.0" />
-            <ComboBox layoutX="206.0" layoutY="71.0" prefWidth="150.0" />
-            <Label layoutX="20.0" layoutY="135.0" prefHeight="17.0" prefWidth="92.0" text="TEMPERATURA" />
-            <Label layoutX="20.0" layoutY="225.0" text="VANT" />
-            <Label layoutX="20.0" layoutY="195.0" prefHeight="17.0" prefWidth="75.0" text="UMIDITATE" />
-            <Label layoutX="20.0" layoutY="165.0" prefHeight="17.0" prefWidth="75.0" text="PRESIUNE" />
-            <Label layoutX="21.0" layoutY="255.0" text="Valoare UV" />
-            <ImageView fitHeight="148.0" fitWidth="242.0" layoutX="226.0" layoutY="130.0" pickOnBounds="true" preserveRatio="true" />
-            <Button layoutX="339.0" layoutY="302.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="129.0" text="Vremea Maine" />
-            <Button layoutX="22.0" layoutY="302.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="129.0" text="Vremea Azi" />
+            <Label layoutX="20.0" layoutY="180.0" prefHeight="17.0" prefWidth="92.0" text="Temperatura" />
+            <Label layoutX="20.0" layoutY="270.0" text="Viteza vant" />
+            <Label layoutX="20.0" layoutY="240.0" prefHeight="17.0" prefWidth="75.0" text="Umiditate" />
+            <Label layoutX="20.0" layoutY="210.0" prefHeight="17.0" prefWidth="75.0" text="Presiune" />
+            <Label layoutX="20.0" layoutY="300.0" text="Prezenta nori" />
+            <ImageView fitHeight="137.0" fitWidth="248.0" layoutX="238.0" layoutY="193.0" pickOnBounds="true" preserveRatio="true" />
+            <Button layoutX="451.0" layoutY="355.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="129.0" text="Vremea Maine" />
+            <Button layoutX="26.0" layoutY="355.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="129.0" text="Vremea Azi" />
+            <Label layoutX="238.0" layoutY="168.0" prefHeight="17.0" prefWidth="59.0" text="Oras" />
+            <Label fx:id="oras" layoutX="323.0" layoutY="168.0" text="Label" />
+            <Label fx:id="temperatura" layoutX="120.0" layoutY="180.0" text="Label" />
+            <Label fx:id="presiune" layoutX="120.0" layoutY="210.0" text="Label" />
+            <Label fx:id="umiditate" layoutX="120.0" layoutY="240.0" text="Label" />
+            <Label fx:id="vitezaVant" layoutX="120.0" layoutY="270.0" text="Label" />
+            <Label fx:id="nori" layoutX="120.0" layoutY="300.0" text="Label" />
+            <ChoiceBox fx:id="choice_box_country" layoutX="16.0" layoutY="96.0" prefWidth="150.0" />
+            <ChoiceBox fx:id="choice_box_city" layoutX="230.0" layoutY="96.0" prefWidth="150.0" />
+            <Label layoutX="20.0" layoutY="150.0" text="Data Curenta" />
+            <Label layoutX="120.0" layoutY="150.0" text="Label" />
          </children>
       </AnchorPane>
    </children>
