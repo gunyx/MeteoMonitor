@@ -14,3 +14,25 @@ Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1024 hPa viteza vant=4.39
 Germany-> temperatura=0.39 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=80% prezenta nori=75%
 Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1024 hPa viteza vant=4.39m/s umiditate=93% prezenta nori=51%
 Germany-> temperatura=0.39 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=80% prezenta nori=75%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
+Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
+Razvilka-> temperatura=-19.34 ℃ presiune=1007 hPa viteza vant=1.01m/s umiditate=91% prezenta nori=96%
+Razvilka urmatoarea zi-> temperatura=-16.11 ℃ presiune=1007 hPa viteza vant=5.38m/s umiditate=94% prezenta nori=100%
+Razvilka-> temperatura=-19.34 ℃ presiune=1007 hPa viteza vant=1.01m/s umiditate=91% prezenta nori=96%
+Razvilka urmatoarea zi-> temperatura=-16.11 ℃ presiune=1007 hPa viteza vant=5.38m/s umiditate=94% prezenta nori=100%
+Razvilka-> temperatura=-19.34 ℃ presiune=1007 hPa viteza vant=1.01m/s umiditate=91% prezenta nori=96%
