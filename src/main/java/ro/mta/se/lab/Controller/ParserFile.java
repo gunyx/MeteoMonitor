@@ -18,7 +18,7 @@ public class ParserFile {
 
     private static ParserFile instance = null;
 
-    private final List<Locatie> listaLocatiiIntrare=new ArrayList<>();
+    private static final List<Locatie> listaLocatiiIntrare=new ArrayList<>();
 
 
     private ParserFile() {
@@ -63,10 +63,15 @@ public class ParserFile {
         String linie=null;
         while (scanner.hasNextLine()) {
             linie = scanner.nextLine();
-            String[] elementeLinie = linie.split("\\S+");//Several non-whitespace characters
+            //System.out.println(linie);
+            String[] elementeLinie = linie.split("\t");//Several non-whitespace characters
             if (elementeLinie.length != 5) {
                 //exceptie
                 System.out.println("Fisier de intrare cu argumente gresite");
+            }
+            if(elementeLinie==null)
+            {
+                System.out.println("Lista de string-uri nu a fost setata");
             }
             setareDate(elementeLinie);
         }
@@ -78,15 +83,16 @@ public class ParserFile {
      * Metoda care seteaza informatiile
      * @param information primeste string-ul ce contine fiecare linie din fisierul de IN
      */
-    private static void setareDate(String[]information)
+    private static void setareDate(String[] information)
     {
-        int  idNou=Integer.parseInt(information[0].trim());
-        String numeNou=information[1];
-        float latNou=Float.parseFloat(information[2].trim());
-        float longNou=Float.parseFloat(information[3].trim());
-        String codTara=information[4];
+            int idNou = Integer.parseInt(information[0].trim());
+            String numeNou = information[1];
+            float latNou = Float.parseFloat(information[2].trim());
+            float longNou = Float.parseFloat(information[3].trim());
+            String codTara = information[4];
 
-        Locatie locatieNoua=new Locatie(idNou,numeNou,codTara,longNou,latNou);
-        instance.listaLocatiiIntrare.add(locatieNoua);
+
+            Locatie locatieNoua = new Locatie(idNou, numeNou, codTara, longNou, latNou);
+            listaLocatiiIntrare.add(locatieNoua);
     }
 }

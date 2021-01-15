@@ -1,0 +1,12 @@
+.anchor {
+
+    -fx-background-color:#ADFF2F;
+
+}
+#busuimg{
+    -fx-background-image:url('file:./src/main/resources/img/busu.jpg');
+    -fx-background-repeat: stretch;
+    -fx-text-background-color: white;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}

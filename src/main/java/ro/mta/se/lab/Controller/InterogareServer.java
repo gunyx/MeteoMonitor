@@ -53,4 +53,32 @@ public class InterogareServer {
 
         return obiectObtinut;
     }
+    public JSONObject obtinereDateZile(String longitudine, String latitudine) throws IOException {
+        String inputLine=null;
+        String url="https://api.openweathermap.org/data/2.5/onecall?lat="+latitudine+"&lon="+longitudine+"&exclude=minutely,alerts,hourly&appid=c89ff4c798a13d0c8e93203d06e31fd9&units=metric";
+
+        URL obj = new URL(url);
+        HttpURLConnection conexiune = (HttpURLConnection) obj.openConnection();
+        conexiune.setRequestMethod("GET");
+        conexiune.setRequestProperty("User-Agent", "Mozilla/5.0");// se pot modifica proprietatile
+
+        int responseCode = conexiune.getResponseCode();//verificare cod 200 =Succes
+        if(responseCode!=200)
+        {
+            //exceptie;
+        }
+
+        BufferedReader dataRecv = new BufferedReader(new InputStreamReader(conexiune.getInputStream()));
+        StringBuffer response = new StringBuffer();
+
+        while ((inputLine = dataRecv.readLine()) != null) {
+            response.append(inputLine);
+        }
+        dataRecv.close();
+
+        //System.out.println(response.toString());
+        JSONObject obiectObtinut = new JSONObject(response.toString());
+
+        return obiectObtinut;
+    }
 }
