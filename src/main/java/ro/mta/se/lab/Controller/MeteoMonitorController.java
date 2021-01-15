@@ -12,6 +12,8 @@ import ro.mta.se.lab.Model.Locatie;
 import java.io.File;
 import java.io.IOException;
 import javafx.event.ActionEvent;
+import ro.mta.se.lab.View.LoggerFile;
+
 import java.time.Instant;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;

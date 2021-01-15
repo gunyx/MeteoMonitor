@@ -1,4 +1,4 @@
-package ro.mta.se.lab.Controller;
+package ro.mta.se.lab.View;
 
 import java.io.FileWriter;
 import java.io.IOException;

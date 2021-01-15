@@ -1,9 +1,16 @@
-Germany-> temperatura=0.25 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=91% prezenta nori=95%
-Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1024 hPa viteza vant=4.39m/s umiditate=93% prezenta nori=51%
-Germany-> temperatura=0.25 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=91% prezenta nori=95%
-Tarascon-> temperatura=10.77 ℃ presiune=1025 hPa viteza vant=8.27m/s umiditate=49% prezenta nori=28%
+Moscow-> temperatura=-19.2 ℃ presiune=1007 hPa viteza vant=0.94m/s umiditate=91% prezenta nori=99%
+Moscow-> temperatura=-19.2 ℃ presiune=1007 hPa viteza vant=0.94m/s umiditate=91% prezenta nori=99%
+Moscow urmatoarea zi-> temperatura=-16.24 ℃ presiune=1007 hPa viteza vant=5.1m/s umiditate=94% prezenta nori=100%
+Moscow-> temperatura=-19.2 ℃ presiune=1007 hPa viteza vant=0.94m/s umiditate=91% prezenta nori=99%
+Moscow urmatoarea zi-> temperatura=-16.24 ℃ presiune=1007 hPa viteza vant=5.1m/s umiditate=94% prezenta nori=100%
+Moscow-> temperatura=-19.2 ℃ presiune=1007 hPa viteza vant=0.94m/s umiditate=91% prezenta nori=99%
+Moscow urmatoarea zi-> temperatura=-16.24 ℃ presiune=1007 hPa viteza vant=5.1m/s umiditate=94% prezenta nori=100%
+Tarascon-> temperatura=11.32 ℃ presiune=1025 hPa viteza vant=8.27m/s umiditate=46% prezenta nori=0%
+Tarascon-> temperatura=11.32 ℃ presiune=1025 hPa viteza vant=8.27m/s umiditate=46% prezenta nori=0%
 Tarascon urmatoarea zi-> temperatura=4.01 ℃ presiune=1025 hPa viteza vant=11.09m/s umiditate=68% prezenta nori=61%
-Tarascon-> temperatura=10.77 ℃ presiune=1025 hPa viteza vant=8.27m/s umiditate=49% prezenta nori=28%
-Bucharest-> temperatura=5.94 ℃ presiune=1022 hPa viteza vant=3.96m/s umiditate=79% prezenta nori=90%
-Bucharest urmatoarea zi-> temperatura=9.17 ℃ presiune=1022 hPa viteza vant=8.65m/s umiditate=93% prezenta nori=100%
-Bucharest-> temperatura=5.94 ℃ presiune=1022 hPa viteza vant=3.96m/s umiditate=79% prezenta nori=90%
+Tarascon-> temperatura=11.32 ℃ presiune=1025 hPa viteza vant=8.27m/s umiditate=46% prezenta nori=0%
+Germany-> temperatura=0.39 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=80% prezenta nori=75%
+Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1024 hPa viteza vant=4.39m/s umiditate=93% prezenta nori=51%
+Germany-> temperatura=0.39 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=80% prezenta nori=75%
+Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1024 hPa viteza vant=4.39m/s umiditate=93% prezenta nori=51%
+Germany-> temperatura=0.39 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=80% prezenta nori=75%
