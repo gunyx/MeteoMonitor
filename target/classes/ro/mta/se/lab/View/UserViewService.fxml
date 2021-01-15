@@ -66,7 +66,7 @@
                </font></Label>
             <ComboBox fx:id="comboCountry" layoutX="15.0" layoutY="96.0" onAction="#insertCountry" onDragEntered="#selectCountryCod" prefWidth="150.0" />
             <ComboBox fx:id="comboCity" layoutX="222.0" layoutY="97.0" onAction="#insertCity" prefWidth="150.0" />
-            <Label fx:id="data" layoutX="65.0" layoutY="200.0" prefHeight="17.0" prefWidth="100.0" text="data" />
+            <Label fx:id="data" layoutX="65.0" layoutY="200.0" prefHeight="17.0" prefWidth="100.0" />
             <Label layoutX="170.0" layoutY="220.0" text="Tem.Max">
                <font>
                   <Font name="System Bold" size="12.0" />
@@ -78,7 +78,7 @@
                <font>
                   <Font name="System Bold" size="14.0" />
                </font></Label>
-            <Label fx:id="descriere" layoutX="82.0" layoutY="170.0" prefHeight="17.0" prefWidth="92.0" text="descriere" />
+            <Label fx:id="descriere" layoutX="82.0" layoutY="170.0" prefHeight="17.0" prefWidth="92.0" />
          </children>
       </AnchorPane>
    </children>

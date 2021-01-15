@@ -32,7 +32,7 @@ public class ParserFile {
     public static ParserFile getInstance() {
         if (instance == null) {
             instance = new ParserFile();
-            //aici eroare ca nu am trimis fisier de in
+            //aici exceptie ca nu am trimis fisier de in
         }
         return instance;
     }
@@ -64,7 +64,7 @@ public class ParserFile {
         while (scanner.hasNextLine()) {
             linie = scanner.nextLine();
             //System.out.println(linie);
-            String[] elementeLinie = linie.split("\t");//Several non-whitespace characters
+            String[] elementeLinie = linie.split("\t");//Several non-whitespace characters(//s+)
             if (elementeLinie.length != 5) {
                 //exceptie
                 System.out.println("Fisier de intrare cu argumente gresite");
@@ -83,8 +83,7 @@ public class ParserFile {
      * Metoda care seteaza informatiile
      * @param information primeste string-ul ce contine fiecare linie din fisierul de IN
      */
-    private static void setareDate(String[] information)
-    {
+    private static void setareDate(String[] information) {
             int idNou = Integer.parseInt(information[0].trim());
             String numeNou = information[1];
             float latNou = Float.parseFloat(information[2].trim());

@@ -32,23 +32,24 @@ public class JsonService {
 
         return tabelaDate;
     }
-    public HashMap<String,String> parsareJsonDays(JSONObject inputJson) {
+    public HashMap<String,String> parsareJsonDays(JSONObject inputJson,int day) {
         HashMap<String,String>tabelaDate=new HashMap<>();
         JSONObject raspunsSv = new JSONObject(inputJson.toString());
 
-        tabelaDate.putIfAbsent("id",raspunsSv.getJSONArray("daily").getJSONObject(1).getJSONArray("weather").getJSONObject(0).get("id").toString());
-        tabelaDate.putIfAbsent("temp",raspunsSv.getJSONArray("daily").getJSONObject(1).getJSONObject("temp").get("day").toString());
-        tabelaDate.putIfAbsent("tempMin",raspunsSv.getJSONArray("daily").getJSONObject(1).getJSONObject("temp").get("min").toString());
-        tabelaDate.putIfAbsent("tempMax",raspunsSv.getJSONArray("daily").getJSONObject(1).getJSONObject("temp").get("max").toString());
+        tabelaDate.putIfAbsent("id",raspunsSv.getJSONArray("daily").getJSONObject(day).getJSONArray("weather").getJSONObject(0).get("id").toString());
+        tabelaDate.putIfAbsent("temp",raspunsSv.getJSONArray("daily").getJSONObject(day).getJSONObject("temp").get("day").toString());
+        tabelaDate.putIfAbsent("tempMin",raspunsSv.getJSONArray("daily").getJSONObject(day).getJSONObject("temp").get("min").toString());
+        tabelaDate.putIfAbsent("tempMax",raspunsSv.getJSONArray("daily").getJSONObject(day).getJSONObject("temp").get("max").toString());
         tabelaDate.putIfAbsent("pressure",raspunsSv.getJSONArray("daily").getJSONObject(1).get("pressure").toString());
-        tabelaDate.putIfAbsent("description",raspunsSv.getJSONArray("daily").getJSONObject(1).getJSONArray("weather").getJSONObject(0).get("description").toString());
-        tabelaDate.putIfAbsent("icon",raspunsSv.getJSONArray("daily").getJSONObject(1).getJSONArray("weather").getJSONObject(0).get("icon").toString());
-        tabelaDate.putIfAbsent("humidity",raspunsSv.getJSONArray("daily").getJSONObject(1).get("humidity").toString());
-        tabelaDate.putIfAbsent("wind",raspunsSv.getJSONArray("daily").getJSONObject(1).get("wind_speed").toString());
-        tabelaDate.putIfAbsent("clouds",raspunsSv.getJSONArray("daily").getJSONObject(1).get("clouds").toString());
-        tabelaDate.putIfAbsent("dt",raspunsSv.getJSONArray("daily").getJSONObject(1).get("dt").toString());
+        tabelaDate.putIfAbsent("description",raspunsSv.getJSONArray("daily").getJSONObject(day).getJSONArray("weather").getJSONObject(0).get("description").toString());
+        tabelaDate.putIfAbsent("icon",raspunsSv.getJSONArray("daily").getJSONObject(day).getJSONArray("weather").getJSONObject(0).get("icon").toString());
+        tabelaDate.putIfAbsent("humidity",raspunsSv.getJSONArray("daily").getJSONObject(day).get("humidity").toString());
+        tabelaDate.putIfAbsent("wind",raspunsSv.getJSONArray("daily").getJSONObject(day).get("wind_speed").toString());
+        tabelaDate.putIfAbsent("clouds",raspunsSv.getJSONArray("daily").getJSONObject(day).get("clouds").toString());
+        tabelaDate.putIfAbsent("dt",raspunsSv.getJSONArray("daily").getJSONObject(day).get("dt").toString());
         tabelaDate.putIfAbsent("dtDiff",raspunsSv.get("timezone_offset").toString());
-        System.out.println(raspunsSv.getJSONArray("daily").getJSONObject(0).getJSONObject("temp").get("day").toString());
+
+        //System.out.println(raspunsSv.getJSONArray("daily").getJSONObject(0).getJSONObject("temp").get("day").toString());
 
         return tabelaDate;
     }

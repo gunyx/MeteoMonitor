@@ -1,18 +1,13 @@
 package ro.mta.se.lab;
 
-import org.json.JSONObject;
+
 import ro.mta.se.lab.Controller.MeteoMonitorController;
 import javafx.application.Application;
 import javafx.fxml.*;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
 
 
 /**

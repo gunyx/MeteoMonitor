@@ -53,6 +53,14 @@ public class InterogareServer {
 
         return obiectObtinut;
     }
+
+    /**
+     * Metoda de interogare a serverului pe baza longitudinii si latitudinii. Este metoda necesara obtinerii json-ului cu datele pentru mai multe zile
+     * @param longitudine longitudinea orasului
+     * @param latitudine latiduinea orasului
+     * @return jsdon cu datele cerute la server
+     * @throws IOException
+     */
     public JSONObject obtinereDateZile(String longitudine, String latitudine) throws IOException {
         String inputLine=null;
         String url="https://api.openweathermap.org/data/2.5/onecall?lat="+latitudine+"&lon="+longitudine+"&exclude=minutely,alerts,hourly&appid=c89ff4c798a13d0c8e93203d06e31fd9&units=metric";
@@ -81,4 +89,5 @@ public class InterogareServer {
 
         return obiectObtinut;
     }
+
 }
