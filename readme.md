@@ -7,7 +7,8 @@
 - [Utilizare](#Utilizare)
 - [Limbaj](#Limbaj)
 - [Realizator](#Realizator)
-***
+
+
 ## Introducere
     Proiectul contine o aplicatie ce furnizeaza utilizatorului detaliile despre vremea curenta sau vremea in urmatoarea zi.<br>
 	Aplicatia ofera o interfata grafica prin care utilizatorul selecteaza codul de tara dorit (ex: RU/RO/DE) si zona dorita(ex:Bucharest)<br>
@@ -21,7 +22,7 @@
 			->umiditatea<br>
 			->descierea vremii pe scurt+imagine reprezentativa<br>
 			->data informatiilor furnizate<br>
-***
+
 
 ##Configurare
 	In configurarea aplicatiei, au fost furnizate doua fisiere de intrare.<br>
@@ -30,11 +31,10 @@
 	Aplicatia furnizeaza datele meteorologice folosind un API (openweather) ce este interogat, el furnizand un json cu toate datele necesare<br>
 	Pentru folosirea API-ului, este necesara o cheie ce este trimisa de fiecare data cand se face request la informatii.<br>
 	Aceasta cheie poate fii modificata cu una premium ce ofera informatii mult mai precise si un mod mai usor de interogare al serverului<br>
-
-
-***
+	
+	
 ## Input
-Format : ID Oras(\t)Nume Oras(\)tLatitudine(\)tLongitudine(\)tCod Tara<br>
+Format : ID Oras(\t)Nume Oras(\t)Latitudine(\t)Longitudine(\t)Cod_Tara<br>
 !unde (\t) reprezinta tab!<br>
 Exemplu:<br>
 819827	Razvilka	55.591667	37.740833	RU<br>
@@ -44,17 +44,18 @@ Exemplu:<br>
 2986678	Germany		52.520008	13.404954	DE<br>
 <br>
 ->In aplicatie este stabilit numele fisierului de intrare "in.txt". Pentru modificare, in acest fisier se adauga noile informatii<br>
-***
+
+
 
 ## Utilizare
     Pentru utilizarea aplicatiei, utilizatorului ii este oferita o interfata grafica ce contine doua combobox-uri ce furnizeaza codul de tara si orasele din tara selectata.<br>
 	Utilizatorul seteaza codul si orasul, utilitarul urmand sa afiseaze datele meteorologice din ziua folosirii aplicatiei.<br>
 	Se ofera si optiunea de obtinere a detaliilor meteorologice si pentru ziua urmatoare.<br>
 	
-***
-
+	
 ## Limbaj
-    JAVA -> SDK 15(Scene Builder+JavaFx)
-***
+   :memo: JAVA -> SDK 15(Scene Builder+JavaFx)
+
+
 ## Realizator
 	Gunyx(Neacsu Gabriel)
