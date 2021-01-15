@@ -69,8 +69,8 @@ public class MeteoMonitorController {
 
     /**
      * Constructorul clasei ce seteaza fisierele de intrare si de iesire
-     * @param in
-     * @param out
+     * @param in fisierul de intrare
+     * @param out fisierul de iesire
      */
     public MeteoMonitorController(String in, String out) {
 
@@ -100,12 +100,12 @@ public class MeteoMonitorController {
 
     /**
      * Metoda ce se apeleaza dupa selectarea unui cod de tara. Ea este responsabila de completarea combobox-ului de orase corespunzatoare codului de tara selectat
-     * @param actionEvent
+     * @param actionEvent eveniment inserare tara
      */
     @FXML
     private void insertCountry(ActionEvent actionEvent){
         comboCity.setItems(FXCollections.observableArrayList(infoAfisare.get(comboCountry.getSelectionModel().getSelectedItem())));
-        String s=comboCountry.getSelectionModel().getSelectedItem();
+        //String s=comboCountry.getSelectionModel().getSelectedItem();
         nextDay.setVisible(false);
         //System.out.println(s);
     }
@@ -113,7 +113,7 @@ public class MeteoMonitorController {
     /**
      * Metoda apelata dupa selectarea orasului pentru care se doreste obtinerea vremii.
      * Ea apeleaza metoda de request la server si metoda de completare a valorilor primit (parsate)
-     * @param actionEvent
+     * @param actionEvent eveniment inserare oras
      * @throws IOException
      */
     @FXML
@@ -136,7 +136,6 @@ public class MeteoMonitorController {
             {
                 latCautata=String.valueOf(step.getLatitudine());
                 longCautata=String.valueOf(step.getLongitudine());
-                //System.out.println(latCautata);
                 //System.out.println(longCautata);
                 setareDetaliiVreme(latCautata,longCautata,1,0);
                 break;
@@ -144,15 +143,14 @@ public class MeteoMonitorController {
             varExist=0;
         }
 
-        //setareDetaliiVreme(selectieCod,selectieTara,0);
         nextDay.setVisible(true);
         nextDay.setText("Vremea maine?");
     }
 
     /**
      * Metoda ce se executa la apasarea butonului de obtinerii a vremii fie pentru ziua urmatoare, fie pentru ziua curenta(daca deja este afisata vremea pentru ziua urmatoare)
-     * @param actionEvent
-     * @throws IOException
+     * @param actionEvent eveniment apasare buton
+     * @throws IOException exceptie java
      */
     @FXML
     private void pressButton(ActionEvent actionEvent) throws IOException {
@@ -169,7 +167,7 @@ public class MeteoMonitorController {
                 break;
             }
         }
-        if(btn==false) {//vremea maine
+        if(!btn) {//vremea maine
             setareDetaliiVreme(latCautata,longCautata,1,1);
             nextDay.setText("Vremea astazi?");
         }else{//vremea curenta
@@ -183,10 +181,10 @@ public class MeteoMonitorController {
     /**
      * Metoda ce apeleaza citirea fisierului de intrare, parsarea lui si se ocupa de initializarea listei de locatii
      * @param inFile path-ul fisierului de intrare de unde sunt citite datele
-     * @throws IOException
+     * @throws IOException exceptii java
      */
     public void creareDateInterfata(String inFile) throws IOException {
-        List<Locatie> auxiliar=null;
+        List<Locatie> auxiliar;
         if(inFile==null)
         {
             System.out.println("Fisier intrare trimis null");
@@ -203,13 +201,13 @@ public class MeteoMonitorController {
      * @param oras Orasul pentru care se doreste afisarea vremii
      * @param flag setarea functiei de apelare a serverului ( prin parametrii long+lat sau prin numeOras+codTara)
      * @param day setarea valorilor afisate pentru o anumita zi (14 zile request la server)
-     * @throws IOException
+     * @throws IOException exceptii java
      */
     private void setareDetaliiVreme(String codTara, String oras,int flag,int day) throws IOException {
 
         if((codTara!=null)&&(oras!=null))
         {
-            String afisare=null;
+            String afisare;
             Long timpUTC= Long.valueOf(0);
             HashMap<String,String>informatiiZona;
 
@@ -229,25 +227,23 @@ public class MeteoMonitorController {
             Iterator iterator = informatiiZona.entrySet().iterator();
             while (iterator.hasNext()) {
                 Map.Entry date = (Map.Entry) iterator.next();
-                if(date.getKey().toString()=="id") {
-                   // id.setText(date.getValue().toString());
-                }else if(date.getKey().toString()=="temp"){
+                if(date.getKey().toString().equals("temp")){
                     temperatura.setText(date.getValue().toString()+" \u2103");
-                } else if(date.getKey().toString()=="tempMin"){
+                } else if(date.getKey().toString().equals("tempMin")){
                     temperaturaMin.setText(date.getValue().toString()+" \u2103");
-                } else if(date.getKey().toString()=="tempMax"){
+                } else if(date.getKey().toString().equals("tempMax")){
                     temperaturaMax.setText(date.getValue().toString()+" \u2103");
-                } else if(date.getKey().toString()=="pressure"){
+                } else if(date.getKey().toString().equals("pressure")){
                     presiune.setText(date.getValue().toString()+" hPa");
-                } else if(date.getKey().toString()=="humidity"){
+                } else if(date.getKey().toString().equals("humidity")){
                     umiditate.setText(date.getValue().toString()+"%");
-                } else if(date.getKey().toString()=="wind"){
+                } else if(date.getKey().toString().equals("wind")){
                     vitezaVant.setText(date.getValue().toString()+"m/s");
-                } else if(date.getKey().toString()=="clouds"){
+                } else if(date.getKey().toString().equals("clouds")){
                     nori.setText(date.getValue().toString()+"%");
-                }else if(date.getKey().toString()=="description"){
+                }else if(date.getKey().toString().equals("description")){
                     descriere.setText(date.getValue().toString());
-                }else if(date.getKey().toString()=="icon"){
+                }else if(date.getKey().toString().equals("icon")){
                     String pathImagine = date.getValue().toString();
                     pathImagine = "./src/main/resources/img/pictograme/" + pathImagine + ".png";
                     File imgFile = new  File(pathImagine);
@@ -256,9 +252,9 @@ public class MeteoMonitorController {
                         Image imagine = new Image(imgFile.toURI().toString());
                         picto.setImage((imagine));
                     }
-                }else if(date.getKey().toString()=="dt"){
+                }else if(date.getKey().toString().equals("dt")){
                     timpUTC += Long.parseLong(date.getValue().toString());
-                }else if(date.getKey().toString()=="dtDiff"){
+                }else if(date.getKey().toString().equals("dtDiff")){
                     timpUTC += Long.parseLong(date.getValue().toString());
                 }
             }
@@ -281,11 +277,12 @@ public class MeteoMonitorController {
 
     /**
      * Metoda ce seteaza lista de locatii a controlerului si tabela hash ce contine codurile de tara si orasele pentru fiecare cod in parte.
-     * @param primit
+     * @param primit lista zonelor din fisierul de intrare
      */
     private void setareTariCod(List<Locatie>primit) {
         if(primit==null)
         {
+            System.out.println("Eroare la setarea listei cu zone");
             //exceptie
         }
         this.dateCautare=primit;
@@ -293,7 +290,6 @@ public class MeteoMonitorController {
             if (infoAfisare.containsKey(step.getCodTara())) {
                 infoAfisare.get(step.getCodTara()).add(step.getNumeOras());
                 //System.out.println( step.getLatitudine());
-                //System.out.println(step.getCodTara());
 
             } else {
                 infoAfisare.putIfAbsent(step.getCodTara(),new ArrayList<>());
