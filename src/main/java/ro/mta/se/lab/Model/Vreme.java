@@ -34,8 +34,8 @@ public class Vreme {
      * @param temeperaturaMax val tem max
      * @param presiune presiune actuala
      * @param vitezaVant viteza actuala
-     * @param valoareUV
-     * @param umiditate
+     * @param valoareUV valoare UV
+     * @param umiditate umiditate
      * @param nori prezenta nori
      */
     public Vreme(int id, float temperatura, float temperaturaMin, float temeperaturaMax, float presiune, float vitezaVant, float valoareUV, float umiditate, float nori) {

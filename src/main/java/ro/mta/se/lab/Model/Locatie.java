@@ -21,11 +21,11 @@ public class Locatie {
 
     /**
      * Constructorul clasei ce seteaza datele pentru locatie
-     * @param id
-     * @param numeOras
-     * @param codTara
-     * @param longitudine
-     * @param latitudine
+     * @param id se transmite id-ul locatiei
+     * @param numeOras se transmite numele locatiei
+     * @param codTara se transmite codul de tara al locatiei
+     * @param longitudine se transmite longitudinea locatiei
+     * @param latitudine se transmite latitudinea locatiei
      */
     public Locatie(int id, String numeOras, String codTara, float longitudine, float latitudine) {
         this.id = new SimpleIntegerProperty(id);
