@@ -1,276 +1,67 @@
-Moscow-> temperatura=-19.2 ℃ presiune=1007 hPa viteza vant=0.94m/s umiditate=91% prezenta nori=99%
-Moscow-> temperatura=-19.2 ℃ presiune=1007 hPa viteza vant=0.94m/s umiditate=91% prezenta nori=99%
-Moscow urmatoarea zi-> temperatura=-16.24 ℃ presiune=1007 hPa viteza vant=5.1m/s umiditate=94% prezenta nori=100%
-Moscow-> temperatura=-19.2 ℃ presiune=1007 hPa viteza vant=0.94m/s umiditate=91% prezenta nori=99%
-Moscow urmatoarea zi-> temperatura=-16.24 ℃ presiune=1007 hPa viteza vant=5.1m/s umiditate=94% prezenta nori=100%
-Moscow-> temperatura=-19.2 ℃ presiune=1007 hPa viteza vant=0.94m/s umiditate=91% prezenta nori=99%
-Moscow urmatoarea zi-> temperatura=-16.24 ℃ presiune=1007 hPa viteza vant=5.1m/s umiditate=94% prezenta nori=100%
-Tarascon-> temperatura=11.32 ℃ presiune=1025 hPa viteza vant=8.27m/s umiditate=46% prezenta nori=0%
-Tarascon-> temperatura=11.32 ℃ presiune=1025 hPa viteza vant=8.27m/s umiditate=46% prezenta nori=0%
-Tarascon urmatoarea zi-> temperatura=4.01 ℃ presiune=1025 hPa viteza vant=11.09m/s umiditate=68% prezenta nori=61%
-Tarascon-> temperatura=11.32 ℃ presiune=1025 hPa viteza vant=8.27m/s umiditate=46% prezenta nori=0%
-Germany-> temperatura=0.39 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=80% prezenta nori=75%
-Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1024 hPa viteza vant=4.39m/s umiditate=93% prezenta nori=51%
-Germany-> temperatura=0.39 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=80% prezenta nori=75%
-Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1024 hPa viteza vant=4.39m/s umiditate=93% prezenta nori=51%
-Germany-> temperatura=0.39 ℃ presiune=1024 hPa viteza vant=3.7m/s umiditate=80% prezenta nori=75%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Razvilka-> temperatura=-19.34 ℃ presiune=1007 hPa viteza vant=1.01m/s umiditate=91% prezenta nori=96%
-Razvilka urmatoarea zi-> temperatura=-16.11 ℃ presiune=1007 hPa viteza vant=5.38m/s umiditate=94% prezenta nori=100%
-Razvilka-> temperatura=-19.34 ℃ presiune=1007 hPa viteza vant=1.01m/s umiditate=91% prezenta nori=96%
-Razvilka urmatoarea zi-> temperatura=-16.11 ℃ presiune=1007 hPa viteza vant=5.38m/s umiditate=94% prezenta nori=100%
-Razvilka-> temperatura=-19.34 ℃ presiune=1007 hPa viteza vant=1.01m/s umiditate=91% prezenta nori=96%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Ploufragan-> temperatura=34.89 ℃ presiune=1010 hPa viteza vant=3.13m/s umiditate=9% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=36.3 ℃ presiune=1010 hPa viteza vant=1.82m/s umiditate=14% prezenta nori=32%
-Tarascon-> temperatura=10.97 ℃ presiune=1025 hPa viteza vant=8.66m/s umiditate=51% prezenta nori=40%
-Tarascon urmatoarea zi-> temperatura=3.86 ℃ presiune=1025 hPa viteza vant=11.18m/s umiditate=69% prezenta nori=66%
-Tarascon-> temperatura=10.97 ℃ presiune=1025 hPa viteza vant=8.66m/s umiditate=51% prezenta nori=40%
-Tarascon urmatoarea zi-> temperatura=3.86 ℃ presiune=1025 hPa viteza vant=11.18m/s umiditate=69% prezenta nori=66%
-Tarascon-> temperatura=10.97 ℃ presiune=1025 hPa viteza vant=8.66m/s umiditate=51% prezenta nori=40%
-Tarascon urmatoarea zi-> temperatura=3.86 ℃ presiune=1025 hPa viteza vant=11.18m/s umiditate=69% prezenta nori=66%
-Tarascon-> temperatura=10.97 ℃ presiune=1025 hPa viteza vant=8.66m/s umiditate=51% prezenta nori=40%
-Bucharest-> temperatura=6.03 ℃ presiune=1021 hPa viteza vant=4.07m/s umiditate=77% prezenta nori=93%
-Bucharest urmatoarea zi-> temperatura=9.74 ℃ presiune=1021 hPa viteza vant=8.23m/s umiditate=93% prezenta nori=100%
-Bucharest-> temperatura=6.03 ℃ presiune=1021 hPa viteza vant=4.07m/s umiditate=77% prezenta nori=93%
-Bucharest urmatoarea zi-> temperatura=9.74 ℃ presiune=1021 hPa viteza vant=8.23m/s umiditate=93% prezenta nori=100%
-Bucharest-> temperatura=6.03 ℃ presiune=1021 hPa viteza vant=4.07m/s umiditate=77% prezenta nori=93%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=34.52 ℃ presiune=1010 hPa viteza vant=3.03m/s umiditate=9% prezenta nori=34%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=34.52 ℃ presiune=1010 hPa viteza vant=3.03m/s umiditate=9% prezenta nori=34%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Bucharest-> temperatura=5.96 ℃ presiune=1021 hPa viteza vant=4.09m/s umiditate=77% prezenta nori=93%
-Bucharest urmatoarea zi-> temperatura=10.28 ℃ presiune=1021 hPa viteza vant=7.2m/s umiditate=93% prezenta nori=100%
-Bucharest-> temperatura=5.96 ℃ presiune=1021 hPa viteza vant=4.09m/s umiditate=77% prezenta nori=93%
-Bucharest urmatoarea zi-> temperatura=10.28 ℃ presiune=1021 hPa viteza vant=7.2m/s umiditate=93% prezenta nori=100%
-București-> temperatura=5.96 ℃ presiune=1021 hPa viteza vant=4.09m/s umiditate=77% prezenta nori=93%
-București urmatoarea zi-> temperatura=10.28 ℃ presiune=1021 hPa viteza vant=7.2m/s umiditate=93% prezenta nori=100%
-București-> temperatura=5.96 ℃ presiune=1021 hPa viteza vant=4.09m/s umiditate=77% prezenta nori=93%
-București urmatoarea zi-> temperatura=10.28 ℃ presiune=1021 hPa viteza vant=7.2m/s umiditate=93% prezenta nori=100%
-București-> temperatura=5.96 ℃ presiune=1021 hPa viteza vant=4.09m/s umiditate=77% prezenta nori=93%
-București urmatoarea zi-> temperatura=10.28 ℃ presiune=1021 hPa viteza vant=7.2m/s umiditate=93% prezenta nori=100%
-Germany-> temperatura=0.21 ℃ presiune=1023 hPa viteza vant=3.57m/s umiditate=95% prezenta nori=99%
-Germany-> temperatura=0.21 ℃ presiune=1023 hPa viteza vant=3.57m/s umiditate=95% prezenta nori=99%
-Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1023 hPa viteza vant=4.57m/s umiditate=93% prezenta nori=98%
-Germany-> temperatura=0.21 ℃ presiune=1023 hPa viteza vant=3.57m/s umiditate=95% prezenta nori=99%
-Germany urmatoarea zi-> temperatura=-1.41 ℃ presiune=1023 hPa viteza vant=4.57m/s umiditate=93% prezenta nori=98%
-Germany-> temperatura=0.21 ℃ presiune=1023 hPa viteza vant=3.57m/s umiditate=95% prezenta nori=99%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=34.52 ℃ presiune=1010 hPa viteza vant=3.03m/s umiditate=9% prezenta nori=34%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=34.52 ℃ presiune=1010 hPa viteza vant=3.03m/s umiditate=9% prezenta nori=34%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=34.52 ℃ presiune=1010 hPa viteza vant=3.03m/s umiditate=9% prezenta nori=34%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=34.52 ℃ presiune=1010 hPa viteza vant=3.03m/s umiditate=9% prezenta nori=34%
-Ploufragan-> temperatura=34.6 ℃ presiune=1010 hPa viteza vant=3.01m/s umiditate=10% prezenta nori=15%
-Ploufragan urmatoarea zi-> temperatura=34.52 ℃ presiune=1010 hPa viteza vant=3.03m/s umiditate=9% prezenta nori=34%
-Ploufragan-> temperatura=34.64 ℃ presiune=1010 hPa viteza vant=3.19m/s umiditate=10% prezenta nori=21%
-Ploufragan urmatoarea zi-> temperatura=35.42 ℃ presiune=1010 hPa viteza vant=2.88m/s umiditate=10% prezenta nori=1%
-Ploufragan-> temperatura=34.64 ℃ presiune=1010 hPa viteza vant=3.19m/s umiditate=10% prezenta nori=21%
-Ploufragan urmatoarea zi-> temperatura=35.42 ℃ presiune=1010 hPa viteza vant=2.88m/s umiditate=10% prezenta nori=1%
-București-> temperatura=7.89 ℃ presiune=1025 hPa viteza vant=4.7m/s umiditate=72% prezenta nori=97%
-București-> temperatura=7.89 ℃ presiune=1025 hPa viteza vant=4.7m/s umiditate=72% prezenta nori=97%
-București urmatoarea zi-> temperatura=6.98 ℃ presiune=1025 hPa viteza vant=6.64m/s umiditate=79% prezenta nori=100%
-București-> temperatura=7.89 ℃ presiune=1025 hPa viteza vant=4.7m/s umiditate=72% prezenta nori=97%
-București urmatoarea zi-> temperatura=6.98 ℃ presiune=1025 hPa viteza vant=6.64m/s umiditate=79% prezenta nori=100%
-București-> temperatura=7.89 ℃ presiune=1025 hPa viteza vant=4.7m/s umiditate=72% prezenta nori=97%
-Germany-> temperatura=-1.71 ℃ presiune=1020 hPa viteza vant=1.86m/s umiditate=95% prezenta nori=42%
-Germany urmatoarea zi-> temperatura=1.24 ℃ presiune=1020 hPa viteza vant=3.55m/s umiditate=94% prezenta nori=98%
-Germany-> temperatura=-1.71 ℃ presiune=1020 hPa viteza vant=1.86m/s umiditate=95% prezenta nori=42%
-Germany urmatoarea zi-> temperatura=1.24 ℃ presiune=1020 hPa viteza vant=3.55m/s umiditate=94% prezenta nori=98%
-Germany-> temperatura=-1.71 ℃ presiune=1020 hPa viteza vant=1.86m/s umiditate=95% prezenta nori=42%
-Germany urmatoarea zi-> temperatura=1.24 ℃ presiune=1020 hPa viteza vant=3.55m/s umiditate=94% prezenta nori=98%
-Brasov-> temperatura=21.16 ℃ presiune=1018 hPa viteza vant=5.6m/s umiditate=23% prezenta nori=0%
-Brasov-> temperatura=21.16 ℃ presiune=1018 hPa viteza vant=5.6m/s umiditate=23% prezenta nori=0%
-Brasov urmatoarea zi-> temperatura=18.33 ℃ presiune=1018 hPa viteza vant=2.36m/s umiditate=28% prezenta nori=3%
-Brasov-> temperatura=21.16 ℃ presiune=1018 hPa viteza vant=5.6m/s umiditate=23% prezenta nori=0%
-Brasov urmatoarea zi-> temperatura=18.33 ℃ presiune=1018 hPa viteza vant=2.36m/s umiditate=28% prezenta nori=3%
-Moscow-> temperatura=-21.93 ℃ presiune=1019 hPa viteza vant=2.44m/s umiditate=90% prezenta nori=54%
-Moscow-> temperatura=-21.93 ℃ presiune=1019 hPa viteza vant=2.44m/s umiditate=90% prezenta nori=54%
-Moscow urmatoarea zi-> temperatura=-19.38 ℃ presiune=1019 hPa viteza vant=0.92m/s umiditate=91% prezenta nori=51%
-Moscow-> temperatura=-21.93 ℃ presiune=1019 hPa viteza vant=2.44m/s umiditate=90% prezenta nori=54%
-Razvilka-> temperatura=-22.5 ℃ presiune=1019 hPa viteza vant=2.59m/s umiditate=90% prezenta nori=60%
-Razvilka urmatoarea zi-> temperatura=-19.86 ℃ presiune=1019 hPa viteza vant=0.89m/s umiditate=91% prezenta nori=45%
-Razvilka-> temperatura=-22.5 ℃ presiune=1019 hPa viteza vant=2.59m/s umiditate=90% prezenta nori=60%
-Aveiro-> temperatura=9.92 ℃ presiune=1024 hPa viteza vant=10.51m/s umiditate=84% prezenta nori=100%
-Aveiro urmatoarea zi-> temperatura=9.86 ℃ presiune=1024 hPa viteza vant=3.05m/s umiditate=71% prezenta nori=20%
-Aveiro-> temperatura=9.92 ℃ presiune=1024 hPa viteza vant=10.51m/s umiditate=84% prezenta nori=100%
-Aveiro urmatoarea zi-> temperatura=9.86 ℃ presiune=1024 hPa viteza vant=3.05m/s umiditate=71% prezenta nori=20%
-Aveiro-> temperatura=9.92 ℃ presiune=1024 hPa viteza vant=10.51m/s umiditate=84% prezenta nori=100%
-Aveiro urmatoarea zi-> temperatura=9.86 ℃ presiune=1024 hPa viteza vant=3.05m/s umiditate=71% prezenta nori=20%
-Aveiro-> temperatura=9.92 ℃ presiune=1024 hPa viteza vant=10.51m/s umiditate=84% prezenta nori=100%
-Aveiro urmatoarea zi-> temperatura=9.86 ℃ presiune=1024 hPa viteza vant=3.05m/s umiditate=71% prezenta nori=20%
-Birkirkara-> temperatura=12.01 ℃ presiune=1020 hPa viteza vant=6.76m/s umiditate=60% prezenta nori=0%
-Birkirkara-> temperatura=12.01 ℃ presiune=1020 hPa viteza vant=6.76m/s umiditate=60% prezenta nori=0%
-Birkirkara urmatoarea zi-> temperatura=11.73 ℃ presiune=1020 hPa viteza vant=7.19m/s umiditate=74% prezenta nori=32%
-Birkirkara-> temperatura=12.01 ℃ presiune=1020 hPa viteza vant=6.76m/s umiditate=60% prezenta nori=0%
-Birkirkara urmatoarea zi-> temperatura=11.73 ℃ presiune=1020 hPa viteza vant=7.19m/s umiditate=74% prezenta nori=32%
-Birkirkara-> temperatura=12.01 ℃ presiune=1020 hPa viteza vant=6.76m/s umiditate=60% prezenta nori=0%
-Roma-> temperatura=6.5 ℃ presiune=1024 hPa viteza vant=3.6m/s umiditate=67% prezenta nori=100%
-Roma urmatoarea zi-> temperatura=8.68 ℃ presiune=1024 hPa viteza vant=1.17m/s umiditate=52% prezenta nori=0%
-Roma-> temperatura=6.5 ℃ presiune=1024 hPa viteza vant=3.6m/s umiditate=67% prezenta nori=100%
-Roma urmatoarea zi-> temperatura=8.68 ℃ presiune=1024 hPa viteza vant=1.17m/s umiditate=52% prezenta nori=0%
-Roma-> temperatura=6.5 ℃ presiune=1024 hPa viteza vant=3.6m/s umiditate=67% prezenta nori=100%
-Livadia-> temperatura=1.14 ℃ presiune=1020 hPa viteza vant=2.06m/s umiditate=78% prezenta nori=3%
-Livadia urmatoarea zi-> temperatura=2.46 ℃ presiune=1020 hPa viteza vant=2.97m/s umiditate=81% prezenta nori=98%
-Livadia-> temperatura=1.14 ℃ presiune=1020 hPa viteza vant=2.06m/s umiditate=78% prezenta nori=3%
-Livadia urmatoarea zi-> temperatura=2.46 ℃ presiune=1020 hPa viteza vant=2.97m/s umiditate=81% prezenta nori=98%
-Florina-> temperatura=-5.27 ℃ presiune=1023 hPa viteza vant=1.67m/s umiditate=85% prezenta nori=1%
-Florina-> temperatura=-5.27 ℃ presiune=1023 hPa viteza vant=1.67m/s umiditate=85% prezenta nori=1%
-Florina urmatoarea zi-> temperatura=-4.38 ℃ presiune=1023 hPa viteza vant=2.25m/s umiditate=86% prezenta nori=10%
-Florina-> temperatura=-5.27 ℃ presiune=1023 hPa viteza vant=1.67m/s umiditate=85% prezenta nori=1%
-Florina urmatoarea zi-> temperatura=-4.38 ℃ presiune=1023 hPa viteza vant=2.25m/s umiditate=86% prezenta nori=10%
-Tarascon-> temperatura=10.6 ℃ presiune=1027 hPa viteza vant=9.62m/s umiditate=54% prezenta nori=38%
-Tarascon-> temperatura=10.6 ℃ presiune=1027 hPa viteza vant=9.62m/s umiditate=54% prezenta nori=38%
-Tarascon urmatoarea zi-> temperatura=6.8 ℃ presiune=1027 hPa viteza vant=11.35m/s umiditate=60% prezenta nori=0%
-Tarascon-> temperatura=10.6 ℃ presiune=1027 hPa viteza vant=9.62m/s umiditate=54% prezenta nori=38%
-Tarascon urmatoarea zi-> temperatura=6.8 ℃ presiune=1027 hPa viteza vant=11.35m/s umiditate=60% prezenta nori=0%
-Ploufragan-> temperatura=34.64 ℃ presiune=1010 hPa viteza vant=3.19m/s umiditate=10% prezenta nori=21%
-Ploufragan-> temperatura=34.64 ℃ presiune=1010 hPa viteza vant=3.19m/s umiditate=10% prezenta nori=21%
-Ploufragan urmatoarea zi-> temperatura=35.42 ℃ presiune=1010 hPa viteza vant=2.88m/s umiditate=10% prezenta nori=1%
-Ploufragan-> temperatura=34.64 ℃ presiune=1010 hPa viteza vant=3.19m/s umiditate=10% prezenta nori=21%
-Madrin-> temperatura=13.23 ℃ presiune=1028 hPa viteza vant=8.94m/s umiditate=64% prezenta nori=0%
-Madrin urmatoarea zi-> temperatura=12.04 ℃ presiune=1028 hPa viteza vant=5.61m/s umiditate=73% prezenta nori=45%
-Madrin-> temperatura=13.23 ℃ presiune=1028 hPa viteza vant=8.94m/s umiditate=64% prezenta nori=0%
-Madrin urmatoarea zi-> temperatura=12.04 ℃ presiune=1028 hPa viteza vant=5.61m/s umiditate=73% prezenta nori=45%
-Bucharest-> temperatura=7.89 ℃ presiune=1025 hPa viteza vant=4.7m/s umiditate=72% prezenta nori=97%
-Bucharest-> temperatura=7.89 ℃ presiune=1025 hPa viteza vant=4.7m/s umiditate=72% prezenta nori=97%
-Bucharest urmatoarea zi-> temperatura=6.98 ℃ presiune=1025 hPa viteza vant=6.64m/s umiditate=79% prezenta nori=100%
-Bucharest-> temperatura=7.89 ℃ presiune=1025 hPa viteza vant=4.7m/s umiditate=72% prezenta nori=97%
-Bucharest urmatoarea zi-> temperatura=6.98 ℃ presiune=1025 hPa viteza vant=6.64m/s umiditate=79% prezenta nori=100%
-Bucharest-> temperatura=7.89 ℃ presiune=1025 hPa viteza vant=4.7m/s umiditate=72% prezenta nori=97%
-Bucharest-> temperatura=-3.7 ℃ presiune=1022 hPa viteza vant=2.39m/s umiditate=90% prezenta nori=91%
-Bucharest urmatoarea zi-> temperatura=-2.54 ℃ presiune=1022 hPa viteza vant=4.44m/s umiditate=89% prezenta nori=92%
-Bucharest-> temperatura=-3.7 ℃ presiune=1022 hPa viteza vant=2.39m/s umiditate=90% prezenta nori=91%
-Bucharest urmatoarea zi-> temperatura=-2.54 ℃ presiune=1022 hPa viteza vant=4.44m/s umiditate=89% prezenta nori=92%
-Bucharest-> temperatura=-3.7 ℃ presiune=1022 hPa viteza vant=2.39m/s umiditate=90% prezenta nori=91%
-Bucharest urmatoarea zi-> temperatura=-2.54 ℃ presiune=1022 hPa viteza vant=4.44m/s umiditate=89% prezenta nori=92%
-Bucharest-> temperatura=-3.7 ℃ presiune=1022 hPa viteza vant=2.39m/s umiditate=90% prezenta nori=91%
-Bucharest urmatoarea zi-> temperatura=-2.54 ℃ presiune=1022 hPa viteza vant=4.44m/s umiditate=89% prezenta nori=92%
-Bucharest-> temperatura=-3.7 ℃ presiune=1022 hPa viteza vant=2.39m/s umiditate=90% prezenta nori=91%
-Bucharest urmatoarea zi-> temperatura=-2.54 ℃ presiune=1022 hPa viteza vant=4.44m/s umiditate=89% prezenta nori=92%
-Bucharest-> temperatura=-3.7 ℃ presiune=1022 hPa viteza vant=2.39m/s umiditate=90% prezenta nori=91%
-Bucharest urmatoarea zi-> temperatura=-2.54 ℃ presiune=1022 hPa viteza vant=4.44m/s umiditate=89% prezenta nori=92%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Pitesti urmatoarea zi-> temperatura=-3.85 ℃ presiune=1022 hPa viteza vant=2.72m/s umiditate=87% prezenta nori=83%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Pitesti urmatoarea zi-> temperatura=-3.85 ℃ presiune=1022 hPa viteza vant=2.72m/s umiditate=87% prezenta nori=83%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Pitesti urmatoarea zi-> temperatura=-3.85 ℃ presiune=1022 hPa viteza vant=2.72m/s umiditate=87% prezenta nori=83%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Pitesti urmatoarea zi-> temperatura=-3.85 ℃ presiune=1022 hPa viteza vant=2.72m/s umiditate=87% prezenta nori=83%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Pitesti urmatoarea zi-> temperatura=-3.85 ℃ presiune=1022 hPa viteza vant=2.72m/s umiditate=87% prezenta nori=83%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Pitesti urmatoarea zi-> temperatura=-3.85 ℃ presiune=1022 hPa viteza vant=2.72m/s umiditate=87% prezenta nori=83%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Pitesti urmatoarea zi-> temperatura=-3.85 ℃ presiune=1022 hPa viteza vant=2.72m/s umiditate=87% prezenta nori=83%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Pitesti urmatoarea zi-> temperatura=-3.85 ℃ presiune=1022 hPa viteza vant=2.72m/s umiditate=87% prezenta nori=83%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Brasov-> temperatura=18.36 ℃ presiune=1019 hPa viteza vant=3.68m/s umiditate=28% prezenta nori=0%
-Brasov urmatoarea zi-> temperatura=17.28 ℃ presiune=1019 hPa viteza vant=1.28m/s umiditate=30% prezenta nori=0%
-Brasov-> temperatura=18.36 ℃ presiune=1019 hPa viteza vant=3.68m/s umiditate=28% prezenta nori=0%
-Pitesti-> temperatura=-4.62 ℃ presiune=1022 hPa viteza vant=1.4m/s umiditate=85% prezenta nori=84%
-Brasov-> temperatura=-3.63 ℃ presiune=1022 hPa viteza vant=2.37m/s umiditate=90% prezenta nori=91%
-Brasov urmatoarea zi-> temperatura=-2.47 ℃ presiune=1022 hPa viteza vant=4.45m/s umiditate=89% prezenta nori=92%
-Brasov-> temperatura=-3.63 ℃ presiune=1022 hPa viteza vant=2.37m/s umiditate=90% prezenta nori=91%
-Bucharest-> temperatura=-3.63 ℃ presiune=1022 hPa viteza vant=2.37m/s umiditate=90% prezenta nori=91%
-Bucharest urmatoarea zi-> temperatura=-2.47 ℃ presiune=1022 hPa viteza vant=4.45m/s umiditate=89% prezenta nori=92%
-Bucharest-> temperatura=-3.63 ℃ presiune=1022 hPa viteza vant=2.37m/s umiditate=90% prezenta nori=91%
-Bucharest urmatoarea zi-> temperatura=-2.47 ℃ presiune=1022 hPa viteza vant=4.45m/s umiditate=89% prezenta nori=92%
-Germany-> temperatura=-1.71 ℃ presiune=1020 hPa viteza vant=1.86m/s umiditate=95% prezenta nori=42%
-Germany-> temperatura=-1.71 ℃ presiune=1020 hPa viteza vant=1.86m/s umiditate=95% prezenta nori=42%
-Germany urmatoarea zi-> temperatura=1.24 ℃ presiune=1020 hPa viteza vant=3.55m/s umiditate=94% prezenta nori=98%
-Germany-> temperatura=-1.71 ℃ presiune=1020 hPa viteza vant=1.86m/s umiditate=95% prezenta nori=42%
-Germany urmatoarea zi-> temperatura=1.24 ℃ presiune=1020 hPa viteza vant=3.55m/s umiditate=94% prezenta nori=98%
-Madrin-> temperatura=3.95 ℃ presiune=1029 hPa viteza vant=0.85m/s umiditate=70% prezenta nori=2%
-Madrin-> temperatura=3.95 ℃ presiune=1029 hPa viteza vant=0.85m/s umiditate=70% prezenta nori=2%
-Madrin urmatoarea zi-> temperatura=6.4 ℃ presiune=1029 hPa viteza vant=1.19m/s umiditate=68% prezenta nori=0%
-Madrin-> temperatura=3.95 ℃ presiune=1029 hPa viteza vant=0.85m/s umiditate=70% prezenta nori=2%
-Madrin urmatoarea zi-> temperatura=6.4 ℃ presiune=1029 hPa viteza vant=1.19m/s umiditate=68% prezenta nori=0%
-Madrin-> temperatura=3.95 ℃ presiune=1029 hPa viteza vant=0.85m/s umiditate=70% prezenta nori=2%
-Madrin urmatoarea zi-> temperatura=6.4 ℃ presiune=1029 hPa viteza vant=1.19m/s umiditate=68% prezenta nori=0%
-Tarascon-> temperatura=10.6 ℃ presiune=1027 hPa viteza vant=9.62m/s umiditate=54% prezenta nori=38%
-Tarascon-> temperatura=10.6 ℃ presiune=1027 hPa viteza vant=9.62m/s umiditate=54% prezenta nori=38%
-Tarascon urmatoarea zi-> temperatura=6.8 ℃ presiune=1027 hPa viteza vant=11.35m/s umiditate=60% prezenta nori=0%
-Tarascon-> temperatura=10.6 ℃ presiune=1027 hPa viteza vant=9.62m/s umiditate=54% prezenta nori=38%
-Tarascon urmatoarea zi-> temperatura=6.8 ℃ presiune=1027 hPa viteza vant=11.35m/s umiditate=60% prezenta nori=0%
-Tarascon-> temperatura=10.6 ℃ presiune=1027 hPa viteza vant=9.62m/s umiditate=54% prezenta nori=38%
-Tarascon urmatoarea zi-> temperatura=6.8 ℃ presiune=1027 hPa viteza vant=11.35m/s umiditate=60% prezenta nori=0%
-Livadia-> temperatura=0.94 ℃ presiune=1020 hPa viteza vant=2.08m/s umiditate=79% prezenta nori=3%
-Livadia-> temperatura=0.94 ℃ presiune=1020 hPa viteza vant=2.08m/s umiditate=79% prezenta nori=3%
-Livadia urmatoarea zi-> temperatura=2.45 ℃ presiune=1020 hPa viteza vant=2.97m/s umiditate=81% prezenta nori=96%
-Livadia-> temperatura=0.94 ℃ presiune=1020 hPa viteza vant=2.08m/s umiditate=79% prezenta nori=3%
-Florina-> temperatura=-5.42 ℃ presiune=1023 hPa viteza vant=1.63m/s umiditate=85% prezenta nori=3%
-Florina urmatoarea zi-> temperatura=-4.38 ℃ presiune=1023 hPa viteza vant=2.14m/s umiditate=86% prezenta nori=22%
-Florina-> temperatura=-5.42 ℃ presiune=1023 hPa viteza vant=1.63m/s umiditate=85% prezenta nori=3%
-Florina urmatoarea zi-> temperatura=-4.38 ℃ presiune=1023 hPa viteza vant=2.14m/s umiditate=86% prezenta nori=22%
-Florina-> temperatura=-5.42 ℃ presiune=1023 hPa viteza vant=1.63m/s umiditate=85% prezenta nori=3%
-Florina urmatoarea zi-> temperatura=-4.38 ℃ presiune=1023 hPa viteza vant=2.14m/s umiditate=86% prezenta nori=22%
-Germany-> temperatura=-1.71 ℃ presiune=1020 hPa viteza vant=1.86m/s umiditate=95% prezenta nori=42%
-Germany urmatoarea zi-> temperatura=1.24 ℃ presiune=1020 hPa viteza vant=3.55m/s umiditate=94% prezenta nori=98%
-Germany-> temperatura=-1.65 ℃ presiune=1019 hPa viteza vant=1.56m/s umiditate=95% prezenta nori=47%
-Germany urmatoarea zi-> temperatura=0.29 ℃ presiune=1019 hPa viteza vant=2.73m/s umiditate=96% prezenta nori=95%
-Moscow-> temperatura=-21.93 ℃ presiune=1019 hPa viteza vant=2.44m/s umiditate=90% prezenta nori=54%
-Moscow-> temperatura=-21.93 ℃ presiune=1019 hPa viteza vant=2.44m/s umiditate=90% prezenta nori=54%
-Moscow urmatoarea zi-> temperatura=-19.38 ℃ presiune=1019 hPa viteza vant=0.92m/s umiditate=91% prezenta nori=51%
-Moscow-> temperatura=-21.93 ℃ presiune=1019 hPa viteza vant=2.44m/s umiditate=90% prezenta nori=54%
-Moscow urmatoarea zi-> temperatura=-19.38 ℃ presiune=1019 hPa viteza vant=0.92m/s umiditate=91% prezenta nori=51%
-Moscow-> temperatura=-21.93 ℃ presiune=1019 hPa viteza vant=2.44m/s umiditate=90% prezenta nori=54%
-Moscow urmatoarea zi-> temperatura=-19.38 ℃ presiune=1019 hPa viteza vant=0.92m/s umiditate=91% prezenta nori=51%
-Razvilka-> temperatura=-22.5 ℃ presiune=1019 hPa viteza vant=2.59m/s umiditate=90% prezenta nori=60%
-Razvilka-> temperatura=-22.5 ℃ presiune=1019 hPa viteza vant=2.59m/s umiditate=90% prezenta nori=60%
-Razvilka urmatoarea zi-> temperatura=-19.86 ℃ presiune=1019 hPa viteza vant=0.89m/s umiditate=91% prezenta nori=45%
-Razvilka-> temperatura=-22.5 ℃ presiune=1019 hPa viteza vant=2.59m/s umiditate=90% prezenta nori=60%
-Razvilka urmatoarea zi-> temperatura=-19.86 ℃ presiune=1019 hPa viteza vant=0.89m/s umiditate=91% prezenta nori=45%
-Pitesti-> temperatura=-4.43 ℃ presiune=1023 hPa viteza vant=1.39m/s umiditate=86% prezenta nori=77%
-Pitesti-> temperatura=-4.43 ℃ presiune=1023 hPa viteza vant=1.39m/s umiditate=86% prezenta nori=77%
-Pitesti urmatoarea zi-> temperatura=-3.79 ℃ presiune=1023 hPa viteza vant=2.99m/s umiditate=87% prezenta nori=89%
-Pitesti-> temperatura=-4.43 ℃ presiune=1023 hPa viteza vant=1.39m/s umiditate=86% prezenta nori=77%
-Pitesti urmatoarea zi-> temperatura=-3.79 ℃ presiune=1023 hPa viteza vant=2.99m/s umiditate=87% prezenta nori=89%
-Pitesti-> temperatura=-4.43 ℃ presiune=1023 hPa viteza vant=1.39m/s umiditate=86% prezenta nori=77%
-Pitesti urmatoarea zi-> temperatura=-3.79 ℃ presiune=1023 hPa viteza vant=2.99m/s umiditate=87% prezenta nori=89%
-Pitesti-> temperatura=-4.43 ℃ presiune=1023 hPa viteza vant=1.39m/s umiditate=86% prezenta nori=77%
-Pitesti urmatoarea zi-> temperatura=-3.79 ℃ presiune=1023 hPa viteza vant=2.99m/s umiditate=87% prezenta nori=89%
-Pitesti-> temperatura=-4.43 ℃ presiune=1023 hPa viteza vant=1.39m/s umiditate=86% prezenta nori=77%
-Pitesti urmatoarea zi-> temperatura=-3.79 ℃ presiune=1023 hPa viteza vant=2.99m/s umiditate=87% prezenta nori=89%
-Pitesti-> temperatura=-4.43 ℃ presiune=1023 hPa viteza vant=1.39m/s umiditate=86% prezenta nori=77%
-Pitesti urmatoarea zi-> temperatura=-3.79 ℃ presiune=1023 hPa viteza vant=2.99m/s umiditate=87% prezenta nori=89%
-Pitesti-> temperatura=-4.43 ℃ presiune=1023 hPa viteza vant=1.39m/s umiditate=86% prezenta nori=77%
-Pitesti-> temperatura=-4.64 ℃ presiune=1022 hPa viteza vant=1.73m/s umiditate=85% prezenta nori=79%
-Pitesti urmatoarea zi-> temperatura=-3.66 ℃ presiune=1022 hPa viteza vant=2.66m/s umiditate=87% prezenta nori=97%
-Pitesti-> temperatura=-4.64 ℃ presiune=1022 hPa viteza vant=1.73m/s umiditate=85% prezenta nori=79%
-Pitesti urmatoarea zi-> temperatura=-3.66 ℃ presiune=1022 hPa viteza vant=2.66m/s umiditate=87% prezenta nori=97%
-Pitesti-> temperatura=-4.64 ℃ presiune=1022 hPa viteza vant=1.73m/s umiditate=85% prezenta nori=79%
-Pitesti urmatoarea zi-> temperatura=-3.66 ℃ presiune=1022 hPa viteza vant=2.66m/s umiditate=87% prezenta nori=97%
-Pitesti-> temperatura=-4.64 ℃ presiune=1022 hPa viteza vant=1.73m/s umiditate=85% prezenta nori=79%
-Pitesti urmatoarea zi-> temperatura=-3.66 ℃ presiune=1022 hPa viteza vant=2.66m/s umiditate=87% prezenta nori=97%
-Pitesti-> temperatura=-4.64 ℃ presiune=1022 hPa viteza vant=1.73m/s umiditate=85% prezenta nori=79%
-Pitesti urmatoarea zi-> temperatura=-3.66 ℃ presiune=1022 hPa viteza vant=2.66m/s umiditate=87% prezenta nori=97%
-Pitesti-> temperatura=-4.64 ℃ presiune=1022 hPa viteza vant=1.73m/s umiditate=85% prezenta nori=79%
-Pitesti urmatoarea zi-> temperatura=-3.66 ℃ presiune=1022 hPa viteza vant=2.66m/s umiditate=87% prezenta nori=97%
-Pitesti-> temperatura=-4.64 ℃ presiune=1022 hPa viteza vant=1.73m/s umiditate=85% prezenta nori=79%
+Bucharest-> temperatura=-4.27 ? presiune=1022 hPa viteza vant=2.05m/s umiditate=91% prezenta nori=85%
+Bucharest urmatoarea zi-> temperatura=-2.93 ? presiune=1022 hPa viteza vant=4.36m/s umiditate=91% prezenta nori=99%
+Bucharest-> temperatura=-4.27 ? presiune=1022 hPa viteza vant=2.05m/s umiditate=91% prezenta nori=85%
+Pitesti-> temperatura=-4.9 ? presiune=1022 hPa viteza vant=1.01m/s umiditate=85% prezenta nori=87%
+Pitesti urmatoarea zi-> temperatura=-3.62 ? presiune=1022 hPa viteza vant=2.62m/s umiditate=87% prezenta nori=79%
+Pitesti-> temperatura=-4.9 ? presiune=1022 hPa viteza vant=1.01m/s umiditate=85% prezenta nori=87%
+Brasov-> temperatura=-4.27 ? presiune=1022 hPa viteza vant=2.05m/s umiditate=91% prezenta nori=85%
+Brasov urmatoarea zi-> temperatura=-2.93 ? presiune=1022 hPa viteza vant=4.36m/s umiditate=91% prezenta nori=99%
+Brasov-> temperatura=-4.27 ? presiune=1022 hPa viteza vant=2.05m/s umiditate=91% prezenta nori=85%
+Razvilka-> temperatura=-22.2 ? presiune=1020 hPa viteza vant=2.85m/s umiditate=90% prezenta nori=76%
+Razvilka urmatoarea zi-> temperatura=-20.23 ? presiune=1020 hPa viteza vant=0.62m/s umiditate=91% prezenta nori=82%
+Razvilka-> temperatura=-22.2 ? presiune=1020 hPa viteza vant=2.85m/s umiditate=90% prezenta nori=76%
+Tarascon-> temperatura=10.27 ? presiune=1027 hPa viteza vant=9.47m/s umiditate=54% prezenta nori=27%
+Tarascon urmatoarea zi-> temperatura=7.37 ? presiune=1027 hPa viteza vant=11.61m/s umiditate=58% prezenta nori=0%
+Tarascon-> temperatura=10.27 ? presiune=1027 hPa viteza vant=9.47m/s umiditate=54% prezenta nori=27%
+Roma-> temperatura=5.11 ? presiune=1024 hPa viteza vant=4.69m/s umiditate=77% prezenta nori=100%
+Roma urmatoarea zi-> temperatura=8.82 ? presiune=1024 hPa viteza vant=1.2m/s umiditate=52% prezenta nori=0%
+Roma-> temperatura=5.11 ? presiune=1024 hPa viteza vant=4.69m/s umiditate=77% prezenta nori=100%
+Aveiro-> temperatura=12.63 ? presiune=1027 hPa viteza vant=0.21m/s umiditate=43% prezenta nori=0%
+Aveiro urmatoarea zi-> temperatura=13.69 ? presiune=1027 hPa viteza vant=1.56m/s umiditate=51% prezenta nori=0%
+Aveiro-> temperatura=12.63 ? presiune=1027 hPa viteza vant=0.21m/s umiditate=43% prezenta nori=0%
+Aveiro urmatoarea zi-> temperatura=13.69 ? presiune=1027 hPa viteza vant=1.56m/s umiditate=51% prezenta nori=0%
+Tarascon-> temperatura=10.27 ? presiune=1027 hPa viteza vant=9.47m/s umiditate=54% prezenta nori=27%
+Tarascon urmatoarea zi-> temperatura=7.37 ? presiune=1027 hPa viteza vant=11.61m/s umiditate=58% prezenta nori=0%
+Tarascon-> temperatura=10.27 ? presiune=1027 hPa viteza vant=9.47m/s umiditate=54% prezenta nori=27%
+Tarascon urmatoarea zi-> temperatura=7.37 ? presiune=1027 hPa viteza vant=11.61m/s umiditate=58% prezenta nori=0%
+Bucharest-> temperatura=-4.27 ? presiune=1022 hPa viteza vant=2.05m/s umiditate=91% prezenta nori=85%
+Bucharest-> temperatura=-4.27 ? presiune=1022 hPa viteza vant=2.05m/s umiditate=91% prezenta nori=85%
+Bucharest urmatoarea zi-> temperatura=-2.78 ? presiune=1022 hPa viteza vant=4.55m/s umiditate=91% prezenta nori=99%
+Bucharest-> temperatura=-4.27 ? presiune=1022 hPa viteza vant=2.05m/s umiditate=91% prezenta nori=85%
+Brasov-> temperatura=-4.21 ? presiune=1022 hPa viteza vant=2.03m/s umiditate=91% prezenta nori=85%
+Brasov urmatoarea zi-> temperatura=-2.72 ? presiune=1022 hPa viteza vant=4.58m/s umiditate=91% prezenta nori=99%
+Brasov-> temperatura=-4.21 ? presiune=1022 hPa viteza vant=2.03m/s umiditate=91% prezenta nori=85%
+Ploufragan-> temperatura=35.34 ? presiune=1011 hPa viteza vant=3.28m/s umiditate=9% prezenta nori=9%
+Ploufragan urmatoarea zi-> temperatura=35.73 ? presiune=1011 hPa viteza vant=2.65m/s umiditate=12% prezenta nori=29%
+Ploufragan-> temperatura=35.34 ? presiune=1011 hPa viteza vant=3.28m/s umiditate=9% prezenta nori=9%
+Ploufragan-> temperatura=34.99 ? presiune=1011 hPa viteza vant=2.92m/s umiditate=9% prezenta nori=9%
+Ploufragan urmatoarea zi-> temperatura=35.61 ? presiune=1011 hPa viteza vant=2.73m/s umiditate=10% prezenta nori=14%
+Ploufragan-> temperatura=34.99 ? presiune=1011 hPa viteza vant=2.92m/s umiditate=9% prezenta nori=9%
+Ploufragan urmatoarea zi-> temperatura=35.61 ? presiune=1011 hPa viteza vant=2.73m/s umiditate=10% prezenta nori=14%
+Birkirkara-> temperatura=12.7 ? presiune=1019 hPa viteza vant=8.27m/s umiditate=62% prezenta nori=39%
+Birkirkara urmatoarea zi-> temperatura=11.99 ? presiune=1019 hPa viteza vant=9.31m/s umiditate=76% prezenta nori=47%
+Birkirkara-> temperatura=12.7 ? presiune=1019 hPa viteza vant=8.27m/s umiditate=62% prezenta nori=39%
+Birkirkara urmatoarea zi-> temperatura=11.99 ? presiune=1019 hPa viteza vant=9.31m/s umiditate=76% prezenta nori=47%
+Aveiro-> temperatura=12.78 ? presiune=1028 hPa viteza vant=0.32m/s umiditate=44% prezenta nori=0%
+Aveiro-> temperatura=12.78 ? presiune=1028 hPa viteza vant=0.32m/s umiditate=44% prezenta nori=0%
+Aveiro urmatoarea zi-> temperatura=13.67 ? presiune=1028 hPa viteza vant=1.27m/s umiditate=51% prezenta nori=1%
+Aveiro-> temperatura=12.78 ? presiune=1028 hPa viteza vant=0.32m/s umiditate=44% prezenta nori=0%
+Brasov-> temperatura=-4.21 ? presiune=1022 hPa viteza vant=2.03m/s umiditate=91% prezenta nori=85%
+Brasov urmatoarea zi-> temperatura=-2.72 ? presiune=1022 hPa viteza vant=4.58m/s umiditate=91% prezenta nori=99%
+Brasov-> temperatura=-4.21 ? presiune=1022 hPa viteza vant=2.03m/s umiditate=91% prezenta nori=85%
+Brasov urmatoarea zi-> temperatura=-2.72 ? presiune=1022 hPa viteza vant=4.58m/s umiditate=91% prezenta nori=99%
+Bucharest-> temperatura=-4.21 ? presiune=1022 hPa viteza vant=2.03m/s umiditate=91% prezenta nori=85%
+Bucharest-> temperatura=-4.21 ? presiune=1022 hPa viteza vant=2.03m/s umiditate=91% prezenta nori=85%
+Bucharest urmatoarea zi-> temperatura=-2.72 ? presiune=1022 hPa viteza vant=4.58m/s umiditate=91% prezenta nori=99%
+Brasov-> temperatura=-4.21 ? presiune=1022 hPa viteza vant=2.03m/s umiditate=91% prezenta nori=85%
+Pitesti-> temperatura=-4.9 ? presiune=1022 hPa viteza vant=1.01m/s umiditate=85% prezenta nori=87%
+Pitesti-> temperatura=-4.9 ? presiune=1022 hPa viteza vant=1.01m/s umiditate=85% prezenta nori=87%
+Pitesti urmatoarea zi-> temperatura=-3.62 ? presiune=1022 hPa viteza vant=2.62m/s umiditate=87% prezenta nori=79%
+Pitesti-> temperatura=-4.9 ? presiune=1022 hPa viteza vant=1.01m/s umiditate=85% prezenta nori=87%
+Pitesti urmatoarea zi-> temperatura=-3.62 ? presiune=1022 hPa viteza vant=2.62m/s umiditate=87% prezenta nori=79%
+Livadia-> temperatura=2.46 ? presiune=1021 hPa viteza vant=2.31m/s umiditate=67% prezenta nori=0%
+Livadia urmatoarea zi-> temperatura=2.94 ? presiune=1021 hPa viteza vant=2.69m/s umiditate=79% prezenta nori=98%
+Livadia-> temperatura=2.46 ? presiune=1021 hPa viteza vant=2.31m/s umiditate=67% prezenta nori=0%
+Germany-> temperatura=-0.88 ? presiune=1019 hPa viteza vant=0.98m/s umiditate=95% prezenta nori=56%
+Germany urmatoarea zi-> temperatura=-0.9 ? presiune=1019 hPa viteza vant=2.23m/s umiditate=98% prezenta nori=90%
+Germany-> temperatura=-0.88 ? presiune=1019 hPa viteza vant=0.98m/s umiditate=95% prezenta nori=56%
