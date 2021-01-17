@@ -13,7 +13,7 @@ public class LoggerFile {
     }
 
     public void scriereFisier(String fisierIesire, String info) throws IOException {
-        FileWriter fileOut = null;
+        FileWriter fileOut ;
         fileOut = new FileWriter(fisierIesire, true);
 
         fileOut.write(info + "\n");

@@ -14,6 +14,10 @@ public class JsonService {
     public JsonService() {
     }
     public HashMap<String,String> parsareJson(JSONObject inputJson) {
+        if(inputJson==null)
+        {
+            return null;
+        }
         HashMap<String,String>tabelaDate=new HashMap<>();
         JSONObject raspunsSv = new JSONObject(inputJson.toString());
 
@@ -30,6 +34,9 @@ public class JsonService {
         tabelaDate.putIfAbsent("dt",raspunsSv.get("dt").toString());
         tabelaDate.putIfAbsent("dtDiff",raspunsSv.get("timezone").toString());
 
+        tabelaDate.putIfAbsent("name",raspunsSv.get("name").toString());
+        tabelaDate.putIfAbsent("lon",raspunsSv.getJSONObject("coord").get("lon").toString());
+        tabelaDate.putIfAbsent("lat",raspunsSv.getJSONObject("coord").get("lat").toString());
         return tabelaDate;
     }
     public HashMap<String,String> parsareJsonDays(JSONObject inputJson,int day) {

@@ -26,7 +26,7 @@ public class InterogareServer {
      */
     public JSONObject obtinereDateSelectie(String codTara, String selectieOras) throws IOException {
 
-        String inputLine=null;
+        String inputLine;
         String url="http://api.openweathermap.org/data/2.5/weather?q="+selectieOras+","+codTara+"&APPID=c89ff4c798a13d0c8e93203d06e31fd9&units=metric";
 
         URL obj = new URL(url);
@@ -37,6 +37,7 @@ public class InterogareServer {
         int responseCode = conexiune.getResponseCode();//verificare cod 200 =Succes
         if(responseCode!=200)
         {
+            return null;
             //exceptie;
         }
 
@@ -59,10 +60,10 @@ public class InterogareServer {
      * @param longitudine longitudinea orasului
      * @param latitudine latiduinea orasului
      * @return jsdon cu datele cerute la server
-     * @throws IOException
+     * @throws IOException exceptii java
      */
     public JSONObject obtinereDateZile(String longitudine, String latitudine) throws IOException {
-        String inputLine=null;
+        String inputLine;
         String url="https://api.openweathermap.org/data/2.5/onecall?lat="+latitudine+"&lon="+longitudine+"&exclude=minutely,alerts,hourly&appid=c89ff4c798a13d0c8e93203d06e31fd9&units=metric";
 
         URL obj = new URL(url);
@@ -73,6 +74,7 @@ public class InterogareServer {
         int responseCode = conexiune.getResponseCode();//verificare cod 200 =Succes
         if(responseCode!=200)
         {
+            return null;
             //exceptie;
         }
 

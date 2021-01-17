@@ -60,7 +60,7 @@ public class ParserFile {
         }
         Scanner scanner = new Scanner(file);
 
-        String linie=null;
+        String linie;
         while (scanner.hasNextLine()) {
             linie = scanner.nextLine();
             //System.out.println(linie);
@@ -69,10 +69,7 @@ public class ParserFile {
                 //exceptie
                 System.out.println("Fisier de intrare cu argumente gresite");
             }
-            if(elementeLinie==null)
-            {
-                System.out.println("Lista de string-uri nu a fost setata");
-            }
+
             setareDate(elementeLinie);
         }
 
