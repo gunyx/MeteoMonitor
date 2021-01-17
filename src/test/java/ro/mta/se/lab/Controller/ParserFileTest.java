@@ -41,11 +41,11 @@ public class ParserFileTest {
         assertEquals(parserTest.getListaLocatiiIntrare().size(),parserTest.getListaLocatiiIntrare().size());
         assertEquals(parserTest.getListaLocatiiIntrare(),listaLocatiiIntrare);
         assertEquals(parserTest.getListaLocatiiIntrare().get(0).getCodTara(),"RU");
-        assertEquals(parserTest.getListaLocatiiIntrare().get(6).getCodTara(),"DE");
-        assertEquals(parserTest.getListaLocatiiIntrare().get(6).getNumeOras(),"Germany");
+        assertEquals(parserTest.getListaLocatiiIntrare().get(6).getCodTara(),"GR");
+        assertEquals(parserTest.getListaLocatiiIntrare().get(6).getNumeOras(),"Florina");
         assertEquals(parserTest.getListaLocatiiIntrare().get(1).getCodTara(),"RU");
         assertEquals(parserTest.getListaLocatiiIntrare().get(1).getLatitudine(),55.752220,0.002);
-        assertEquals(parserTest.getListaLocatiiIntrare().get(6).getLatitudine(),52.520008,0.002);
+        assertEquals(parserTest.getListaLocatiiIntrare().get(6).getLatitudine(),40.784526,0.002);
 
         parserTest=null;
         parserTest=ParserFile.getInstance("inexistent.txt");
