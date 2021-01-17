@@ -65,3 +65,9 @@ Livadia-> temperatura=2.46 ? presiune=1021 hPa viteza vant=2.31m/s umiditate=67%
 Germany-> temperatura=-0.88 ? presiune=1019 hPa viteza vant=0.98m/s umiditate=95% prezenta nori=56%
 Germany urmatoarea zi-> temperatura=-0.9 ? presiune=1019 hPa viteza vant=2.23m/s umiditate=98% prezenta nori=90%
 Germany-> temperatura=-0.88 ? presiune=1019 hPa viteza vant=0.98m/s umiditate=95% prezenta nori=56%
+Madrin-> temperatura=2.91 ? presiune=1029 hPa viteza vant=0.64m/s umiditate=84% prezenta nori=12%
+Madrin urmatoarea zi-> temperatura=4.91 ? presiune=1029 hPa viteza vant=1.19m/s umiditate=78% prezenta nori=0%
+Madrin-> temperatura=2.91 ? presiune=1029 hPa viteza vant=0.64m/s umiditate=84% prezenta nori=12%
+Aveiro-> temperatura=12.78 ? presiune=1028 hPa viteza vant=0.32m/s umiditate=44% prezenta nori=0%
+Aveiro urmatoarea zi-> temperatura=13.67 ? presiune=1028 hPa viteza vant=1.27m/s umiditate=51% prezenta nori=1%
+Aveiro-> temperatura=12.78 ? presiune=1028 hPa viteza vant=0.32m/s umiditate=44% prezenta nori=0%
